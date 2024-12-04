@@ -28,9 +28,7 @@ in order to enable this on VSC you'll need and external Plugin, one that i used 
 
 <img src="images/model-viewer-logo.png" alt="Model Viewer" width="50"><br>Model Viewer
 
-<img src="images/Cinema-4D-Logo.png" alt="Model Viewer" width="50"><br>Cinema 4d
-
-<img src="images/after-effects.svg" alt="After Effects Logo" width="50"><br>Adobe After Effects
+<img src="images/Cinema-4D-Logo.png" alt="Cinema 4d" width="50"><br>Cinema 4d
 
 # Features
 ### Model-Viewer
